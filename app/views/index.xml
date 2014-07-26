@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="imagen"></ImageView>
+		<Button id="botonGaleria"></Button>
+		<Button id="botonCamara"></Button>	
+	</Window>
+</Alloy>

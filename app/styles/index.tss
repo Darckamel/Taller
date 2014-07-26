@@ -1,0 +1,24 @@
+".container": {
+	backgroundColor:"white"
+}
+"#imagen":{
+	width:150,
+	height:150,
+	top:70,
+	borderColor:"#000",
+	borderWidth:1,
+}
+"#botonGaleria":{
+	top:250,
+	height:50,
+	width:150,
+	borderColor:"#000",
+	title:"Galeria",
+}
+"#botonCamara":{
+	top:330,
+	height:50,
+	width:150,
+	borderColor:"#000",
+	title:"Camara",
+}
